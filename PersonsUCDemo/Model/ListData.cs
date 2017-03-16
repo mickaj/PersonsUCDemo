@@ -22,10 +22,6 @@ namespace PersonsUCDemo.Model
         private int personIndex;
         public int PersonIndex
         {
-            //get
-            //{
-            //    return personIndex;
-            //}
             set
             {
                 personIndex = value;
